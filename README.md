@@ -66,7 +66,7 @@ cp -r skills/teambition-commit .cursor/skills/
 或使用脚本一键安装到指定目录：
 
 ```bash
-./install.sh .cursor/skills        # 或 .agent/skills
+bash install.sh .cursor/skills     # 或 .agent/skills
 ```
 
 ## 配置 / Configure
