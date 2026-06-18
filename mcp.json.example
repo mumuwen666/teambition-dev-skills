@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "teambition-mcp": {
+      "type": "http",
+      "url": "https://open.teambition.com/api/mcp?userToken=<YOUR_TEAMBITION_USER_TOKEN>"
+    }
+  }
+}
