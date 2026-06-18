@@ -1,0 +1,7 @@
+.DS_Store
+work_dashboard_*.md
+*.log
+
+# 含真实 userToken 的本地 MCP 配置，禁止提交（仅保留 mcp.json.example 模板）
+mcp.json
+.cursor/mcp.json
